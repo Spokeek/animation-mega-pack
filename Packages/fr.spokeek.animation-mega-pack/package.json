@@ -1,11 +1,11 @@
 {
   "name": "fr.spokeek.animation-mega-pack",
   "displayName": "animation-mega-pack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A big unity animation pack to use to test your avatars",
   "gitDependencies": {},
   "vpmDependencies": {
-    "com.vrchat.avatars": "3.3.0"
+    "com.vrchat.avatars": ">=3.3.0"
   },
   "author": {
     "name": "Spokeek",
@@ -13,6 +13,5 @@
     "url": "https://github.com/Spokeek"
   },
   "legacyFolders": {},
-  "legacyFiles": {},
-  "localPath": "G:\\Projets Unity\\VRChat\\animation-mega-pack\\Packages\\animation-mega-pack"
+  "legacyFiles": {}
 }
